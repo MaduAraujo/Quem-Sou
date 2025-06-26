@@ -29,6 +29,3 @@ Este projeto é um exemplo de um perfil profissional construído com **React Nat
     Isso iniciará o Metro Bundler. Você pode então rodar a aplicação em um emulador ou dispositivo físico:
       * Para iOS: `npm run ios` ou `yarn ios`
       * Para Android: `npm run android` ou `yarn android`
-
-### Projeto Funcionando
-<video controls src="video.mp4" title="Title"></video>
